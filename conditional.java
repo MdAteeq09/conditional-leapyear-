@@ -4,7 +4,7 @@ public class conditional{
     {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter year:");
+        System.out.println("Enter year:");
         int year = sc.nextInt();
 
         boolean x = (year % 4) == 0;
