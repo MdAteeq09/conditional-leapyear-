@@ -3,7 +3,7 @@
 🚨 **This repository has been archived.**
 
 The code for **Conditional-leapyear** has been moved to our main repository:  
-👉 [Array Programs – Conditional-leapyear](https://github.com/<your-username>/<main-repo>/tree/main/array/transpose-matrix)
+👉 [Array Programs – Conditional-leapyear](https://github.com/MdAteeq09/Java_DSA_Practice/blob/main/conditionals/conditional.java)
 
 ---
 
